@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Spaceship",
+        "price": 199.99,
+        "imgUrl": "/images/brian-mcgowan.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Alien Dictionary",
+        "price": 9.99,
+        "imgUrl": "/images/pisit-heng.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Snorkel",
+        "price": 5.99,
+        "imgUrl": "/images/maarten-van-den-heuvel.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sun Cream",
+        "price": 6.99,
+        "imgUrl": "/images/lina-verovaya.jpg"
+    }
+]
