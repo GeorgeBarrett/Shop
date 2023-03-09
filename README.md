@@ -9,7 +9,7 @@ typescript
 
 ## improvements
 
-The original computer that I built the project on has gone to heaven. I have cloned the repository onto my new computer but it seems that this has caused quite a few bugs. I will have to come back this as it does not seem like an easy fix
+the home and about pages need building 
 
 ## git
 
